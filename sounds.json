@@ -1,0 +1,443 @@
+[
+  {
+    "id": "1",
+    "label": "Ah Its Coming Out (Golden Freddy)",
+    "filename": "AH ITS COMING OUT (Golden Freddy Edition).mp3",
+    "color": "#FF5252",
+    "category": "Meme"
+  },
+  {
+    "id": "2",
+    "label": "Alarm!!!",
+    "filename": "alarm!!!.mp3",
+    "color": "#448AFF",
+    "category": "Effect"
+  },
+  {
+    "id": "3",
+    "label": "All My Fellas",
+    "filename": "all my fellas.mp3",
+    "color": "#69F0AE",
+    "category": "Music"
+  },
+  {
+    "id": "4",
+    "label": "Another Victory For The Og",
+    "filename": "Another day Another Victory for the og (1).mp3",
+    "color": "#FFAB40",
+    "category": "Meme"
+  },
+  {
+    "id": "5",
+    "label": "AUGH",
+    "filename": "AUGH.mp3",
+    "color": "#E040FB",
+    "category": "Voice"
+  },
+  {
+    "id": "6",
+    "label": "Bad To The Bone",
+    "filename": "Bad to the bone.mp3",
+    "color": "#FFD740",
+    "category": "Music"
+  },
+  {
+    "id": "7",
+    "label": "Beat Da Koto Nai",
+    "filename": "beat da koto nai.mp3",
+    "color": "#64FFDA",
+    "category": "Anime"
+  },
+  {
+    "id": "8",
+    "label": "Ben NO",
+    "filename": "Ben NO.mp3",
+    "color": "#FF4081",
+    "category": "Voice"
+  },
+  {
+    "id": "9",
+    "label": "Bomboclat",
+    "filename": "bomboclat.mp3",
+    "color": "#FF5252",
+    "category": "Voice"
+  },
+  {
+    "id": "10",
+    "label": "Caseoh Burgerking",
+    "filename": "caseoh burgerking.mp3",
+    "color": "#448AFF",
+    "category": "Meme"
+  },
+  {
+    "id": "11",
+    "label": "Chipi Chipi Chapa Chapa",
+    "filename": "Chipi Chipi Chapa Chapa.mp3",
+    "color": "#69F0AE",
+    "category": "Music"
+  },
+  {
+    "id": "12",
+    "label": "Clapping",
+    "filename": "Clapping.mp3",
+    "color": "#FFAB40",
+    "category": "Effect"
+  },
+  {
+    "id": "13",
+    "label": "Crickets",
+    "filename": "crickets.mp3",
+    "color": "#E040FB",
+    "category": "Effect"
+  },
+  {
+    "id": "14",
+    "label": "Czy To Freddy Fazbear",
+    "filename": "czy to freddy fazbear.mp3",
+    "color": "#FFD740",
+    "category": "Meme"
+  },
+  {
+    "id": "15",
+    "label": "Discord Call",
+    "filename": "discord.mp3",
+    "color": "#64FFDA",
+    "category": "Effect"
+  },
+  {
+    "id": "16",
+    "label": "Don Pollo",
+    "filename": "Don pollo.mp3",
+    "color": "#FF4081",
+    "category": "Meme"
+  },
+  {
+    "id": "17",
+    "label": "English Or Spanish",
+    "filename": "english or spanish.mp3",
+    "color": "#FF5252",
+    "category": "Meme"
+  },
+  {
+    "id": "18",
+    "label": "Fart",
+    "filename": "fart.mp3",
+    "color": "#448AFF",
+    "category": "Effect"
+  },
+  {
+    "id": "19",
+    "label": "Fortnite Downed",
+    "filename": "fortnite.mp3",
+    "color": "#69F0AE",
+    "category": "Game"
+  },
+  {
+    "id": "20",
+    "label": "Gay Echo",
+    "filename": "Gay.mp3",
+    "color": "#FFAB40",
+    "category": "Voice"
+  },
+  {
+    "id": "21",
+    "label": "GET OUT!!",
+    "filename": "Get OUT!!.mp3",
+    "color": "#E040FB",
+    "category": "Voice"
+  },
+  {
+    "id": "22",
+    "label": "Giga Chad Theme",
+    "filename": "Giga Chad.mp3",
+    "color": "#FFD740",
+    "category": "Music"
+  },
+  {
+    "id": "23",
+    "label": "Gojo Domain Expansion",
+    "filename": "Gojo Domain Expansion.mp3",
+    "color": "#64FFDA",
+    "category": "Anime"
+  },
+  {
+    "id": "24",
+    "label": "Goku Drip",
+    "filename": "goku.mp3",
+    "color": "#FF4081",
+    "category": "Anime"
+  },
+  {
+    "id": "25",
+    "label": "Goofy Run",
+    "filename": "goofy.mp3",
+    "color": "#FF5252",
+    "category": "Effect"
+  },
+  {
+    "id": "26",
+    "label": "Holy Moly",
+    "filename": "holy moly.mp3",
+    "color": "#448AFF",
+    "category": "Voice"
+  },
+  {
+    "id": "27",
+    "label": "HUH?",
+    "filename": "huh.mp3",
+    "color": "#69F0AE",
+    "category": "Effect"
+  },
+  {
+    "id": "28",
+    "label": "Josh Hutcherson Whistle",
+    "filename": "Josh Hutcherson Whistle.mp3",
+    "color": "#FFAB40",
+    "category": "Meme"
+  },
+  {
+    "id": "29",
+    "label": "King Baldwin Hand",
+    "filename": "King baldwin.mp3",
+    "color": "#E040FB",
+    "category": "Meme"
+  },
+  {
+    "id": "30",
+    "label": "Laugh Track",
+    "filename": "laugh.mp3",
+    "color": "#FFD740",
+    "category": "Effect"
+  },
+  {
+    "id": "31",
+    "label": "Lethal Company Stare",
+    "filename": "Lethal Company 1000 quota stare.mp3",
+    "color": "#64FFDA",
+    "category": "Game"
+  },
+  {
+    "id": "32",
+    "label": "Lethal Company Jester",
+    "filename": "Lethal company jester.mp3",
+    "color": "#FF4081",
+    "category": "Game"
+  },
+  {
+    "id": "33",
+    "label": "Los Pingüinos",
+    "filename": "los pingüinos de madagascar.mp3",
+    "color": "#FF5252",
+    "category": "Meme"
+  },
+  {
+    "id": "34",
+    "label": "Metal Pipe Falling",
+    "filename": "Metal pipe.mp3",
+    "color": "#448AFF",
+    "category": "Effect"
+  },
+  {
+    "id": "35",
+    "label": "Mewing Song",
+    "filename": "Mewing.mp3",
+    "color": "#69F0AE",
+    "category": "Meme"
+  },
+  {
+    "id": "36",
+    "label": "Minecraft Eating",
+    "filename": "Minecraft eating.mp3",
+    "color": "#FFAB40",
+    "category": "Game"
+  },
+  {
+    "id": "37",
+    "label": "Monkey Sounds",
+    "filename": "Monkey.mp3",
+    "color": "#E040FB",
+    "category": "Effect"
+  },
+  {
+    "id": "38",
+    "label": "Oi Oi Oi",
+    "filename": "Oi oi oi.mp3",
+    "color": "#FFD740",
+    "category": "Meme"
+  },
+  {
+    "id": "39",
+    "label": "Outro Song",
+    "filename": "outro.mp3",
+    "color": "#64FFDA",
+    "category": "Music"
+  },
+  {
+    "id": "40",
+    "label": "Phonk Beat",
+    "filename": "phonk.mp3",
+    "color": "#FF4081",
+    "category": "Music"
+  },
+  {
+    "id": "41",
+    "label": "Rizz Sound",
+    "filename": "Rizz.mp3",
+    "color": "#FF5252",
+    "category": "Meme"
+  },
+  {
+    "id": "42",
+    "label": "Roblox Oof",
+    "filename": "roblox.mp3",
+    "color": "#448AFF",
+    "category": "Game"
+  },
+  {
+    "id": "43",
+    "label": "Sad Hamster",
+    "filename": "Sad hamster.mp3",
+    "color": "#69F0AE",
+    "category": "Meme"
+  },
+  {
+    "id": "44",
+    "label": "Sad Violin",
+    "filename": "Sad___.mp3",
+    "color": "#FFAB40",
+    "category": "Music"
+  },
+  {
+    "id": "45",
+    "label": "SHI ONNN",
+    "filename": "SHI ONNN.mp3",
+    "color": "#E040FB",
+    "category": "Meme"
+  },
+  {
+    "id": "46",
+    "label": "Shrimp Alfredo",
+    "filename": "Shrimp Alfredo.mp3",
+    "color": "#FFD740",
+    "category": "Meme"
+  },
+  {
+    "id": "47",
+    "label": "Sisyphus Boulder",
+    "filename": "sisyphus _(.mp3",
+    "color": "#64FFDA",
+    "category": "Meme"
+  },
+  {
+    "id": "48",
+    "label": "Sneaky Snitch",
+    "filename": "sneaky snitch.mp3",
+    "color": "#FF4081",
+    "category": "Music"
+  },
+  {
+    "id": "49",
+    "label": "Spongebob Fail",
+    "filename": "spongebob.mp3",
+    "color": "#FF5252",
+    "category": "Effect"
+  },
+  {
+    "id": "50",
+    "label": "Sticking Out Your Gyat",
+    "filename": "sticking out your gyat for the rizzler.mp3",
+    "color": "#448AFF",
+    "category": "Meme"
+  },
+  {
+    "id": "51",
+    "label": "Sus Among Us",
+    "filename": "sus.mp3",
+    "color": "#69F0AE",
+    "category": "Game"
+  },
+  {
+    "id": "52",
+    "label": "Taco Bell Bong",
+    "filename": "Taco Bell Bell.mp3",
+    "color": "#FFAB40",
+    "category": "Effect"
+  },
+  {
+    "id": "53",
+    "label": "The Prowler",
+    "filename": "the prowler.mp3",
+    "color": "#E040FB",
+    "category": "Effect"
+  },
+  {
+    "id": "54",
+    "label": "Toothless Dancing",
+    "filename": "Toothless dancing.mp3",
+    "color": "#FFD740",
+    "category": "Music"
+  },
+  {
+    "id": "55",
+    "label": "UwU Anime",
+    "filename": "uwu.mp3",
+    "color": "#64FFDA",
+    "category": "Anime"
+  },
+  {
+    "id": "56",
+    "label": "Villager Ballin",
+    "filename": "villager ballin.mp3",
+    "color": "#FF4081",
+    "category": "Game"
+  },
+  {
+    "id": "57",
+    "label": "Vine Boom",
+    "filename": "Vine Boom.mp3",
+    "color": "#FF5252",
+    "category": "Effect"
+  },
+  {
+    "id": "58",
+    "label": "Where You Go I Go",
+    "filename": "WHERE YOU GO I GO.mp3",
+    "color": "#448AFF",
+    "category": "Music"
+  },
+  {
+    "id": "59",
+    "label": "Why Are You Gay?",
+    "filename": "Why are you gay_.mp3",
+    "color": "#69F0AE",
+    "category": "Voice"
+  },
+  {
+    "id": "60",
+    "label": "Wow Anime",
+    "filename": "Wow.mp3",
+    "color": "#FFAB40",
+    "category": "Anime"
+  },
+  {
+    "id": "61",
+    "label": "Yippee (Creature)",
+    "filename": "yipee.mp3",
+    "color": "#E040FB",
+    "category": "Meme"
+  },
+  {
+    "id": "62",
+    "label": "You Are Mine",
+    "filename": "YOU ARE MINE.mp3",
+    "color": "#FFD740",
+    "category": "Voice"
+  },
+  {
+    "id": "63",
+    "label": "You Are My Sunshine",
+    "filename": "you are my sunshine_Lebron.mp3",
+    "color": "#64FFDA",
+    "category": "Music"
+  }
+]

@@ -831,12 +831,5 @@
     "filename": "your phone ringing.mp3",
     "color": "#FF5252",
     "category": "Effect"
-  },
-  {
-    "id": "122",
-    "label": "Smack Oh!",
-    "filename": "_SMACK_ OH!.mp3",
-    "color": "#448AFF",
-    "category": "Voice"
   }
 ]
